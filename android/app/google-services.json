@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598254431774",
+    "firebase_url": "https://bateein-e82c3.firebaseio.com",
+    "project_id": "bateein-e82c3",
+    "storage_bucket": "bateein-e82c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598254431774:android:ab73778a44e173ab0fc80f",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598254431774-pejvp3mhrsb4aepllkan8nkva3nli7ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOx3dP0V4bewXfLQYj5wm2jeLgnQ_vHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598254431774-pejvp3mhrsb4aepllkan8nkva3nli7ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
